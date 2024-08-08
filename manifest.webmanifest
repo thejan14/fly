@@ -1,9 +1,9 @@
 {
-    "name": "FLY",
-    "short_name": "FLY",
+    "name": "Journey of a Lonely Robot",
+    "short_name": "Journey of a Lonely Robot",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#0F1B27",
     "theme_color": "#000",
     "description": "",
     "icons": [{

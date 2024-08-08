@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-FLY-1.0";
+const cacheName = "Jan Oberpichler _ Sven Oberpichler-Journey of a Lonely Robot-0.24.08.24a";
 const contentToCache = [
-    "Build/230731.loader.js",
-    "Build/230731.framework.js",
-    "Build/230731.data",
-    "Build/230731.wasm",
+    "Build/421807e9f3a0a1538d00a6e6bc6bbb28.loader.js",
+    "Build/1888da46c53d0e0d412d34a081e96b13.framework.js.gz",
+    "Build/66e917b38a12ab2ad63679f3cee98884.data.gz",
+    "Build/53633816ecbaf961e5b876bd9f8bae09.wasm.gz",
     "TemplateData/style.css"
 
 ];
