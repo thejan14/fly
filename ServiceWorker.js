@@ -1,9 +1,9 @@
-const cacheName = "Jan Oberpichler _ Sven Oberpichler-Journey of a Lonely Robot-0.24.08.24a";
+const cacheName = "Jan Oberpichler _ Sven Oberpichler-Journey of a Lonely Robot-0.24.08.26rc1";
 const contentToCache = [
-    "Build/421807e9f3a0a1538d00a6e6bc6bbb28.loader.js",
+    "Build/b2d9f29fb8ca81379d9fbc82c6e6e177.loader.js",
     "Build/1888da46c53d0e0d412d34a081e96b13.framework.js.gz",
-    "Build/66e917b38a12ab2ad63679f3cee98884.data.gz",
-    "Build/53633816ecbaf961e5b876bd9f8bae09.wasm.gz",
+    "Build/3f1ee5a0c6654bead93051e2111c5290.data.gz",
+    "Build/87d47006fd85355cf9f487367372501b.wasm.gz",
     "TemplateData/style.css"
 
 ];
